@@ -77,8 +77,10 @@ Abrir con *Epopeyas de las comidas y las bebidas de Chile* como número festivo 
 
 - Se busca que el proyecto y su dramaturgia puedan **exportarse fuera de Chile**.
 - Se crearía una **dramaturgia en torno a la obra**, con el **actor Héctor Fuentes** encarnando a **Pablo de Rokha**.
-- Se quiere **aprovechar el territorio / campo cultural "John Gokura"** (nombre dicho con doble L) para presentarse allí.
-- **POR CONFIRMAR:** grafía exacta del nombre, país, ciudad, tipo de espacio y contacto. No se asumió ningún dato del lugar.
+- Se quiere **aprovechar el Campo Cultural Yongokura** (escrito con doble L), en la **comuna de Curepto**, donde se realiza el Festival Epopeyas del Maule, para presentar el espectáculo.
+- **Fecha confirmada por el equipo: sábado 24 de octubre.**
+- Horizonte de proyección: **2027 y 2028 fuera de Chile**. En 2026 se prepara el material para llegar con difusión.
+- **POR CONFIRMAR:** hora, capacidad, condiciones técnicas y contacto del espacio.
 
 ### Concepto de la versión exportable
 
@@ -124,7 +126,7 @@ Se apoya en la estructura de bloques ya definida. El texto de enlace queda **POR
 
 ### Plan de trabajo sugerido
 
-1. Confirmar el campo cultural "John Gokura": nombre, país, contacto, capacidad, condiciones técnicas y calendario.
+1. Confirmar el Campo Cultural Yongokura: nombre, país, contacto, capacidad, condiciones técnicas y calendario.
 2. Cerrar con Héctor Fuentes la disponibilidad y el alcance de su participación (ensayos, giras, textos).
 3. Escribir la dramaturgia de enlace y definir idioma(s) de presentación.
 4. Aclarar derechos de la obra y de las canciones.
@@ -137,3 +139,59 @@ Se apoya en la estructura de bloques ya definida. El texto de enlace queda **POR
 - **Barrera idiomática**: sin estrategia, el valor del texto se pierde.
 - **Costos de gira** sin financiamiento definido.
 - **Dependencia de datos sin confirmar** del campo cultural anfitrión.
+
+---
+
+## Formato escénico (para circular)
+
+Objetivo: un formato **reducido y móvil**, que funcione en Yongokura y pueda girar.
+
+### Integrantes confirmados
+
+| Rol | Integrante |
+|-----|------------|
+| Voz, rap y dirección | Carlito Raíz |
+| Actor (encarna a Pablo de Rokha) | Héctor Fuentes |
+| Voces femeninas | Dos mujeres cantantes (**nombres POR DEFINIR**) |
+| Batería acústica | **Nombre POR DEFINIR** |
+
+### Por incorporar
+
+- **Vientos y/o multiinstrumentistas** para acompañar la secuencia. Cantidad e instrumentos: **POR DEFINIR**.
+- Otras bases (bajo, guitarra, teclados, sampler): **no mencionadas**. Definir según los arreglos de cada canción, especialmente el carácter de cumbia y funky.
+
+### Criterio de tamaño
+
+- Meta: el menor número posible de personas sin perder el sonido. Cada músico de viento ideal que cubra más de un instrumento.
+- Hoy el elenco confirmado es de 5 personas (Carlito Raíz, Héctor Fuentes, dos voces, batería), más los vientos por sumar.
+- Para giras internacionales, definir una versión base (mínima) y una ampliada (para festivales).
+
+## Plan 2026–2028
+
+### 2026 (preparación y difusión)
+
+1. **Sábado 24 de octubre: presentación en el Campo Cultural Yongokura (Curepto).** Es el hito inmediato y sirve como estreno y registro.
+2. **Registro audiovisual del espectáculo** en vivo (video multicámara y audio), pensado para material de difusión.
+3. **Lanzamientos de singles** de las canciones nuevas y del repertorio. Orden y fechas **POR DEFINIR**.
+4. **Sesiones grabadas** (en vivo / en estudio): versiones "sesión" para plataformas y redes.
+5. Dossier audiovisual y reel para programadores y festivales internacionales.
+
+### 2027–2028 (proyección internacional)
+
+6. Contactar festivales, espacios y mercados fuera de Chile con el material de 2026.
+7. Resolver derechos de la obra y las canciones (ver análisis anterior).
+8. Definir idioma de presentación (subtítulos o textos de enlace) y ficha técnica de gira.
+9. Buscar financiamiento para giras (**convocatorias POR VERIFICAR**).
+
+### Propuesta de uso del 24 de octubre
+
+Tratarlo como **ensayo general abierto + grabación**: probar el formato de banda ante público y registrar lo necesario para el material de difusión. Requiere coordinar con anticipación el equipo de registro audiovisual y el sonido (el montaje y la mezcla condicionan la calidad del material).
+
+### Checklist hacia el 24 de octubre
+
+- [ ] Confirmar hora, escenario y condiciones técnicas de Yongokura.
+- [ ] Cerrar la formación final (vientos incluidos).
+- [ ] Definir setlist y orden con textos de enlace.
+- [ ] Ensayos del formato completo.
+- [ ] Equipo de grabación de audio y video.
+- [ ] Plan de comunicación del evento.
