@@ -195,3 +195,54 @@ Tratarlo como **ensayo general abierto + grabación**: probar el formato de band
 - [ ] Ensayos del formato completo.
 - [ ] Equipo de grabación de audio y video.
 - [ ] Plan de comunicación del evento.
+
+---
+
+## Grabación de sesión multipista en el día del ensayo
+
+**Idea:** aprovechar el día de ensayo para grabar una sesión multipista del formato completo. Ese registro sirve para tres cosas antes y durante el evento del 24 de octubre.
+
+- **Fecha del ensayo: POR DEFINIR.** Idealmente con varios días de margen antes del 24 de octubre, para poder editar y publicar.
+- **Lugar: POR DEFINIR** (Yongokura u otro espacio con buena acústica).
+
+### Para qué sirve el material
+
+1. **Difusión previa al evento:** teaser, clips y sesión en video para convocar público antes del 24.
+2. **Referencia de mezcla:** escuchar la banda grabada y ajustar el sonido para el evento.
+3. **Respaldo y archivo:** versión de estudio-en-vivo de cada canción para singles, redes y el dossier 2027–2028.
+
+> **POR CONFIRMAR:** si además se pretende usar pistas o secuencias grabadas dentro del show en vivo. Si es así, hay que definirlo antes del ensayo (clic, sincronización, tempos).
+
+### Plan técnico de grabación
+
+| Elemento | Detalle |
+|----------|---------|
+| Formato de registro | Multipista (una pista por fuente) en interfaz con suficientes entradas. **Cantidad de canales POR DEFINIR según formación final** |
+| Fuentes a captar | Voz de Carlito Raíz, dos voces femeninas, voz de Héctor Fuentes (actor), batería acústica (varios micrófonos), vientos / multiinstrumentistas, otros instrumentos si los hay |
+| Aislación | La batería acústica sangra en los demás micrófonos. Evaluar ubicar a las voces y vientos separados, o usar pantallas acústicas |
+| Monitoreo | Mezcla de monitores o auriculares para cada intérprete, para tocar juntos sin perder claridad |
+| Video | Multicámara si es posible (planos generales y detalle de cada intérprete). Mismo reloj de tiempo o claqueta para sincronizar con el audio |
+| Respaldo | Grabación redundante (segundo dispositivo) y copia de seguridad el mismo día |
+
+### Protocolo sugerido para el día
+
+1. Montaje y pruebas de sonido antes de grabar.
+2. Grabar en el **orden del setlist**, con una pasada completa y tomas extra de las piezas clave.
+3. Registrar al actor por separado en los pasajes de texto, sin música, para tener limpieza en la edición.
+4. Anotar tomas buenas durante la sesión.
+5. Copiar y respaldar el material antes de desmontar.
+
+### Entregables a obtener
+
+- Sesión multipista completa por canción, con mezcla de referencia.
+- Video de la sesión (cortes largos y clips verticales para redes).
+- Lista de tomas elegidas y notas para la mezcla.
+
+### Pendientes para activar este plan
+
+- [ ] Fecha y lugar del ensayo.
+- [ ] Quién hará el sonido y la grabación (técnico o estudio).
+- [ ] Quién hará el registro de video.
+- [ ] Presupuesto de grabación y equipo.
+- [ ] Formación final y número de canales.
+- [ ] Definir uso del material (solo difusión, o también dentro del show).
