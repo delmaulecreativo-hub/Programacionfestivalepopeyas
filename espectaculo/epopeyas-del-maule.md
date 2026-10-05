@@ -66,3 +66,74 @@ Abrir con *Epopeyas de las comidas y las bebidas de Chile* como número festivo 
 - Duración por pieza y total del espectáculo.
 - Intérpretes, instrumentación y arreglos.
 - Recursos escénicos o audiovisuales (a coordinar con Maule Creativo).
+
+---
+
+## Análisis: internacionalización y dramaturgia (versión de exportación)
+
+> Documento de trabajo. Todo lo no confirmado por el equipo está marcado **POR DEFINIR / POR VERIFICAR**.
+
+### Datos entregados por el equipo
+
+- Se busca que el proyecto y su dramaturgia puedan **exportarse fuera de Chile**.
+- Se crearía una **dramaturgia en torno a la obra**, con el **actor Héctor Fuentes** encarnando a **Pablo de Rokha**.
+- Se quiere **aprovechar el territorio / campo cultural "John Gokura"** (nombre dicho con doble L) para presentarse allí.
+- **POR CONFIRMAR:** grafía exacta del nombre, país, ciudad, tipo de espacio y contacto. No se asumió ningún dato del lugar.
+
+### Concepto de la versión exportable
+
+Pasar de un recital de canciones a un **teatro-concierto**: Héctor Fuentes como Pablo de Rokha conduce la obra, y las siete canciones son los momentos musicales de una dramaturgia continua.
+
+Esto ayuda a exportar por tres razones:
+
+1. El personaje da hilo narrativo a públicos que no conocen a Pablo de Rokha.
+2. El texto de enlace puede adaptarse por idioma sin tocar las canciones.
+3. Es un formato giras-friendly: una persona en escena más banda reducida.
+
+### Propuesta de dramaturgia (borrador de trabajo)
+
+Se apoya en la estructura de bloques ya definida. El texto de enlace queda **POR ESCRIBIR**; no se inventan citas ni hechos biográficos.
+
+| Bloque | Canciones | Rol del actor (Pablo de Rokha) |
+|--------|-----------|--------------------------------|
+| Apertura | Genio y figura | Se presenta ante el público: su voz y su fuerza |
+| I. Territorio y memoria | Arrieros cordilleranos · Baile de los negros de Licantén · Epopeyas de las comidas y las bebidas de Chile | Guía por el Maule: gente, memoria y mesa |
+| II. La vida del poeta | Poeta de provincia | Habla de su oficio y su origen provinciano |
+| III. La noche | El viajero de sí mismo | Pasaje íntimo sobre la pérdida; menos texto, más silencio |
+| Cierre | Nocturno muy oscuro | Cierre con el premio, en clave festiva |
+
+### Viabilidad: qué evaluar antes de salir
+
+**Artístico**
+- Idioma: la poesía está en español. Decidir entre subtitulado, sobretítulos, programa de sala bilingüe o textos de enlace en el idioma local. **POR DEFINIR** según el país destino.
+- Qué elementos del Maule se explican al público extranjero: Licantén, los arrieros, la cocina.
+
+**Derechos y legal (verificar con asesoría, no asumir)**
+- Situación de los derechos de la obra de Pablo de Rokha (herederos, editoriales, sociedad de gestión). **POR VERIFICAR.**
+- Autoría de música y arreglos de las canciones nuevas y existentes.
+- Permisos de uso de imagen del personaje y del texto en el extranjero.
+
+**Técnico y logístico**
+- Ficha técnica y rider reducido para gira: sonido, backline, tiempos de montaje. **POR DEFINIR.**
+- Equipo de viaje: cantidad de personas, instrumentos, transporte, seguros. **POR DEFINIR.**
+- Visas y permisos de trabajo artístico según el país.
+
+**Financiamiento**
+- Posibles fuentes: fondos de internacionalización de artes escénicas o música, apoyo del propio espacio anfitrión, cachets, coproducción. **POR VERIFICAR** convocatorias vigentes, bases y fechas antes de comprometer nada.
+- Presupuesto base: **POR ELABORAR** una vez conocido el destino.
+
+### Plan de trabajo sugerido
+
+1. Confirmar el campo cultural "John Gokura": nombre, país, contacto, capacidad, condiciones técnicas y calendario.
+2. Cerrar con Héctor Fuentes la disponibilidad y el alcance de su participación (ensayos, giras, textos).
+3. Escribir la dramaturgia de enlace y definir idioma(s) de presentación.
+4. Aclarar derechos de la obra y de las canciones.
+5. Armar ficha técnica y rider de gira, y el presupuesto.
+6. Identificar y postular a fondos; preparar dossier bilingüe (este documento sirve de base).
+
+### Riesgos principales
+
+- **Derechos de autor no resueltos**: puede bloquear la presentación en el extranjero.
+- **Barrera idiomática**: sin estrategia, el valor del texto se pierde.
+- **Costos de gira** sin financiamiento definido.
+- **Dependencia de datos sin confirmar** del campo cultural anfitrión.
